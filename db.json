@@ -1,0 +1,164 @@
+{
+    "Cars": [
+      {
+        "id": 1,
+        "brand": "BMW",
+        "model": "BMW M80i xDrive",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/19402/bmw-m850i-g16-gran-coupe-xdrive-2022-660606.jpg",
+        "price": "60",
+        "available": 30
+      },
+      {
+        "id": 2,
+        "brand": "AUDI",
+        "model": "Audi Q5",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18589/audi-q5-55-tfsi-e-quattro-usa-version-2021-614642.jpg",
+        "price": "75",
+        "available": 20
+      },
+      {
+        "id": 3,
+        "brand": "MERCEDES",
+        "model": "Mercedes AMG GT Range",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/4440/mercedes-benz-sls-amg-2010-267056.jpg",
+        "price": "100",
+        "available": 25
+      },
+      {
+        "id": 4,
+        "brand": "PORSCHE",
+        "model": "Porsche 718",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/17397/porsche-718-982-spyder-2019-551810.jpg",
+        "price": "90",
+        "available": 10
+      },
+      {
+        "id": 5,
+        "brand": "FERRARI",
+        "model": "Ferrari F8 Tributo",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18999/ferrari-f8-tributo-by-novitec-n-largo-2021-637432.jpg",
+        "price": "250",
+        "available": 2
+      },
+      {
+        "id": 6,
+        "brand": "MCLAREN",
+        "model": "McLaren Artura",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18706/mclaren-artura-2022-749365.jpg",
+        "price": "200",
+        "available": 3
+      },
+      {
+        "id": 7,
+        "brand": "ALFA ROMEO",
+        "model": "Alfa Romeo 33 Stradale",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/20596/alfa-romeo-33-stradale-2024-732849.jpg",
+        "price": "220",
+        "available": 5
+      },
+      {
+        "id": 8,
+        "brand": "ASTON MARTIN",
+        "model": "Aston Martin DBS Superleggera",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18245/aston-martin-dbs-superleggera-007-edition-2021-594646.jpg",
+        "price": "300",
+        "available": 1
+      },
+      {
+        "id": 9,
+        "brand": "BENTLEY",
+        "model": "Bentley Continental GT",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18618/bentley-continental-gt-convertible-uk-version-2021-616774.jpg",
+        "price": "350",
+        "available": 1
+      },
+      {
+        "id": 10,
+        "brand": "BUGATTI",
+        "model": "Bugatti Chiron",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/17561/bugatti-chiron-super-sport-300-2021-644291.jpg",
+        "price": "500",
+        "available": 1
+      },
+      {
+        "id": 11,
+        "brand": "JAGUAR",
+        "model": "Jaguar F-Type",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/17759/jaguar-f-type-r-2021-570981.jpg",
+        "price": "150",
+        "available": 5
+      },
+      {
+        "id": 12,
+        "brand": "LAMBORGHINI",
+        "model": "Lamborghini Huracán",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/20181/lamborghini-huracan-sto-time-chaser111100-2024-710431.jpg",
+        "price": "400",
+        "available": 1
+      },
+      {
+        "id": 13,
+        "brand": "LAND ROVER",
+        "model": "Land Rover Defender",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18722/land-rover-defender-110-v8-2022-622830.jpg",
+        "price": "100",
+        "available": 10
+      },
+      {
+        "id": 14,
+        "brand": "LEXUS",
+        "model": "Lexus LX 570",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/16164/lexus-lx-570-two-row-2018-468823.jpg",
+        "price": "150",
+        "available": 5
+      },
+      {
+        "id": 15,
+        "brand": "LOTUS",
+        "model": "Lotus Evija",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/19907/lotus-evija-fittipaldi-2022-691266.jpg",
+        "price": "500",
+        "available": 1
+      },
+      {
+        "id": 16,
+        "brand": "MASERATI",
+        "model": "Maserati MC20",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/20022/maserati-mc20-by-edocompetition-2023-698977.jpg",
+        "price": "300",
+        "available": 1
+      },
+      {
+        "id": 17,
+        "brand": "MCLAREN",
+        "model": "McLaren 765LT",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/19021/mclaren-765lt-spider-2022-638805.jpg",
+        "price": "400",
+        "available": 1
+      },
+      {
+        "id": 18,
+        "brand": "MINI",
+        "model": "Mini Cooper",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/20827/mini-cooper-se-jcw-trim-2024-748304.jpg",
+        "price": "100",
+        "available": 10
+      },
+      {
+        "id": 19,
+        "brand": "NISSAN",
+        "model": "Nissan GT-R",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/20392/nissan-gt-r-r35-nismo-usa-version-2024-722024.jpg",
+        "price": "200",
+        "available": 3
+      },
+      {
+        "id": 20,
+        "brand": "ROLLS ROYCE",
+        "model": "Rolls Royce Ghost",
+        "imageUrl": "https://www.mad4wheels.com/img/free-car-images/desktop/18435/rolls-royce-ghost-uk-version-2021-607032.jpg",
+        "price": "500",
+        "available": 1
+      }
+    ]
+  }
